@@ -1,16 +1,16 @@
-# NCAA 06 Football Next 25
+# NCAA 06 Football Next 26
 
-![next25-banner-github-official](https://github.com/user-attachments/assets/32fa1eb8-8baf-4bc6-a5a1-38f2886503f9)
+![next26-banner-github-beta](https://github.com/user-attachments/assets/3a0a6a20-2719-474d-b663-373c8aabc54a)
 
 
 
 https://www.ncaanext.com
 
-2024 Updates to NCAA Football 2006 for PCSX2 & AetherSX2
+2025 Updates to NCAA Football 2006 for PCSX2 & AetherSX2
 
 ### Latest Releases
 
-https://next25.ncaanext.com
+https://next26.ncaanext.com
 
 If you run into problems first check our website for help. You can also find help on discord or file an issue on github.
 
