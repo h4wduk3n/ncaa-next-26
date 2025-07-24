@@ -2,7 +2,7 @@
 
 ![next26-banner-github-beta](https://github.com/user-attachments/assets/3a0a6a20-2719-474d-b663-373c8aabc54a)
 
-
+<img width="600" height="181" alt="NCAA NEXT" src="https://github.com/user-attachments/assets/59fec24a-ed6b-493c-a911-33619e63a9cb" />
 
 https://www.ncaanext.com
 
