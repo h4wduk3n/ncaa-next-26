@@ -6,7 +6,7 @@
 
 https://www.ncaanext.com
 
-2025 Updates to NCAA Football 2006 for PCSX2 & AetherSX2
+Our fourth annual installment, the NEXT 26 mod is add-on content that brings 2025 Updates to EA's NCAA Football 06 (playable on PCSX2 & AetherSX2/NetherSX2/XBSX2)
 
 ### Latest Releases
 
@@ -34,14 +34,9 @@ https://wiki.ncaanext.com
 
 # Full Mod Features
 
-**Note:** This mod assumes you have a legitimate copy of NCAA Football 06 for PS2, dumped into an ISO format and played with PCSX2 v1.7.4029 and a legitimate PS2 BIOS dump.
+**Note:** This mod is add-on content and requires you have a legitimate copy of NCAA Football 06 for PS2, dumped into an ISO format and played with PCSX2 v1.7.4029 and a legitimate PS2 BIOS dump. THIS MOD DOES NOT INCLUDE THE FULL GAME OR THE PS2 BIOS.
 
-
-The NCAA NEXT Mod is a fully integrated modification of NCAA Football 06 with a ton of new features to the original game and previous modification releases. This package is a combination of our team's texture package of over 15,000 new graphics textures and modifications to the entire game's code, database structure, and strings to enhance gameplay, dynasty mod, and visual quality, and much, much more! 
-
-Features include:
-
-The NCAA NEXT 25 Mod is a fully integrated modification of NCAA Football 06 for the 2024 season with a ton of new features to the original game and previous modification releases. This package is a combination of our team's texture package of over 37,000 new graphics textures and modifications to the entire game's core engine, database structure, and strings to enhance gameplay, dynasty mode, visual quality, and much, much more!
+The NCAA NEXT Mod is a fully integrated modification of NCAA Football 06 for the current day season with a ton of new features to the original game and previous modification releases. This package is a combination of our team's texture package of over 37,000 new graphics textures and modifications to the entire game's core engine, database structure, and strings to enhance gameplay, dynasty mode, visual quality, and much, much more!
 
 Features include:
 
