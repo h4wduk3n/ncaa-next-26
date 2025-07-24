@@ -6,7 +6,7 @@
 
 https://www.ncaanext.com
 
-Our fourth annual installment, the NEXT 26 mod is free, community-made add-on content that brings 2025 Updates to EA's NCAA Football 06 (playable on PCSX2 & AetherSX2/NetherSX2/XBSX2)
+Our fourth annual installment, the NEXT 26 mod is free, community-made add-on content that brings 2025 updates to EA's NCAA Football 06 (playable on PCSX2 & AetherSX2/NetherSX2/XBSX2)
 
 ### Latest Releases
 
