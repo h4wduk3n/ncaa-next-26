@@ -10,7 +10,7 @@ Our fourth annual installment, the NEXT 26 mod is free, community-made add-on co
 
 **THIS MOD DOES NOT INCLUDE THE FULL GAME OR THE PS2 BIOS**
 
-_Never pay for the NEXT mod. It is 100% free and the mod team does not accept donations._
+_Never pay for the NEXT mod. It is 100% free and our mod team does not accept donations._
 
 ### Latest Releases
 
